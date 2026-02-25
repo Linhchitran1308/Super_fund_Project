@@ -1,6 +1,0 @@
-1. Dataexploration.R          ← data loading
-2. Model__Descriptive_Statistic.R  ← descriptive stats & distribution
-3. Model_Specification_setting.R   ← static VaR/ES (HS, Normal, t, CF)
-4. Model_Specification.R           ← dynamic models (EWMA, GARCH, eGARCH)
-5. Backtesting.R                   ← backtesting tests
-6. Exedance_forecast.R             ← PRIIP scenarios
